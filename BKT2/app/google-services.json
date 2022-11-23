@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726345885085",
+    "firebase_url": "https://bkt2-138af-default-rtdb.firebaseio.com",
+    "project_id": "bkt2-138af",
+    "storage_bucket": "bkt2-138af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726345885085:android:f60e142272f9edd77c3b74",
+        "android_client_info": {
+          "package_name": "com.example.bkt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726345885085-1u75ct101e27raenijcaa5r0d5i6ul7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgv9cZrTEpt2rRyP6fXlUGkOCYy1ZiBns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726345885085-1u75ct101e27raenijcaa5r0d5i6ul7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
